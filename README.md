@@ -22,7 +22,9 @@ A simple Streamlit web app powered by Google Gemini API that provides career gui
 2.**Create a virtual environment (optional but recommended):**
 
 python -m venv venv
+
 source venv/bin/activate   # On Linux/Mac
+
 venv\Scripts\activate      # On Windows
 
 
@@ -40,7 +42,8 @@ Create a .env file in the project root.
 GOOGLE_API_KEY=your_api_key_here
 
 ▶️ **How to Use**
-To run the code use the command in terminal
+
+To run the code use the command in terminal:
 
 streamlit run app.py   ->"app.py" can be replace by the name of your file you gave
 
