@@ -14,13 +14,12 @@ Easy to run locally
 
 🛠️ Installation
 
-Clone the repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-
-Create a virtual environment (optional but recommended):
+1.**Clone the repository:**
+  ```bash
+  git clone https://github.com/<your-username>/<repo-name>.git
+  cd <repo-name>
+```
+2.**Create a virtual environment (optional but recommended):**
 
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
@@ -28,9 +27,9 @@ venv\Scripts\activate      # On Windows
 
 
 Install dependencies:
-
-pip install -r requirements.txt
-
+  ```bash
+  pip install -r requirements.txt
+```
 
 Setup environment variables:
 
@@ -50,9 +49,13 @@ streamlit run app.py   ->"app.py" can be replace by the name of your file you ga
 this opens http://localhost:8501 in your browser.Now you can use it.
 
 📂 Project Structure
-.
-├── app.py
-├── requirements.txt
-├── .env.example
-├── README.md
+
+
+  ├── app.py
+  
+  ├── requirements.txt
+  
+  ├── .env
+  
+  ├── README.md
 
