@@ -6,6 +6,8 @@ A simple Streamlit web app powered by Google Gemini API that provides career gui
 
 -Interactive UI with Streamlit
 
+-Support English,Hindi,Hinglish
+
 -Uses Google Pro AI (Gemini)
 
 -Secure API key handling with .env file
