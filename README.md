@@ -1,6 +1,6 @@
 **AI Career Guidance App**
 
-A simple Streamlit web app powered by Google Gemini API that provides career guidance and answers queries using AI.
+A simple Streamlit web app powered by Google Gemini API that provides career guidance and answers queries using AI. with collab my friend [Vaibhav](https://github.com/vaibhav410)
 
 🚀 **Features**
 
